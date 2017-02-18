@@ -3,7 +3,7 @@ module.exports = {
 
  "QUESTIONS" : [
   {
-      "What is the name of Corrin's side-b?": [
+      "What is the name of Corrin's side B?": [
         "Dragon Lunge",
         "Dragon Fang",
         "Blazer",
